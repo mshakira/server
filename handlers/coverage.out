@@ -1,0 +1,6 @@
+mode: set
+server/handlers/list.go:14.77,19.16 2 1
+server/handlers/list.go:25.2,26.14 2 1
+server/handlers/list.go:19.16,22.3 2 1
+server/handlers/list.go:30.76,31.71 1 1
+server/handlers/list.go:31.71,46.3 4 1
